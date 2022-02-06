@@ -11118,5 +11118,16 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.form-input {
+  border: 0;
+  border-bottom: 2px solid #000;
+}
+.form-input .form-input-pb {
+  padding-bottom: 5px;
+}
+
+.container-Middle {
+  margin-top: 125px;
+}
 
 /*# sourceMappingURL=style.css.map */
